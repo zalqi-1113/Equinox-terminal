@@ -37,7 +37,8 @@
 Salin dan tempel di Termux:
 
 ```bash
-pkg update && pkg install git -y && git clone https://github.com/zalqi-1113/Equinox-Linux-Terminal-.git && cd Equinox-Linux-Terminal- && chmod +x Installer.sh && ./Installer.sh
+git clone https://github.com/zalqi-1113/Equinox-terminal.git && cd Equinox-terminal && bash Installer.sh
+
 ```
 
 Setelah selesai, jalankan:
