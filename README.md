@@ -1,16 +1,23 @@
 # Equinox Linux Terminal
 
+[![Release](https://img.shields.io/badge/Release-vXF--1--0--0-blue.svg)](https://github.com/zalqi-1113/Equinox-Linux-Terminal-)
+[![Kernel](https://img.shields.io/badge/Kernel-System--Equinox--1.2.3-purple.svg)](https://github.com/zalqi-1113/Equinox-Linux-Terminal-)
+[![Creator](https://img.shields.io/badge/Creator-Zalqi-red.svg)](https://github.com/zalqi-1113/Equinox-Linux-Terminal-)
+[![Termux Compatible](https://img.shields.io/badge/Termux-Supported-green.svg)](https://termux.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > Lingkungan terminal berbasis **Bash murni** untuk **Termux (Android)** — juga jalan di Linux biasa.
 > Satu perintah `eqx` berisi 80+ utilitas: info sistem, monitor live, jaringan, manajemen berkas,
 > catatan & todo, keamanan, manajer paket, tema, prompt cantik, plugin, dan lebih banyak lagi.
 
 ```
- ___    ___    _   _   ___   _  _    ___   __  __
-| __|  / _ \  | | | | |_ _| | \| |  / _ \  \ \/ /
-| _|  | (_) | | |_| |  | |  | .` | | (_) |  >  <
-|___|  \__\_\  \___/  |___| |_|\_|  \___/  /_/\_\
-```
+  _____ ___  _   _ ___ _  _  _____  __
+ | ____/ _ \| | | |_ _| \| |/ _ \ \/ /
+ |  _|| | | | | | || || .` | | | \  / 
+ | |__| |_| | |_| || || |\  | |_| /  \ 
+ |_____\__\_\\___/|___|_| \_|\___/_/\_\
 
+```
 ---
 
 ## Daftar isi
